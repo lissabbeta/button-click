@@ -1,0 +1,22 @@
+button{
+    width:200px;
+    height: 70px;
+    font-size: 28px;
+    position: absolute;
+    bottom: 5px;
+    
+
+}
+
+.light{
+    background-color: bisque;
+    color: crimson;
+
+}
+
+.dark{
+    background-color: rgb(4, 6, 24);
+    color: crimson;
+
+}
+
